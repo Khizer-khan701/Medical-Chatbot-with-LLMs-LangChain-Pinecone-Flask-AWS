@@ -12,11 +12,11 @@ git clone https://github.com/Khizer-khan701/Medical-Chatbot-with-LLMs-LangChain-
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n medibot python=3.10 -y
+conda create -n medicalbot python=3.11.0 -y
 ```
 
 ```bash
-conda activate medibot
+conda activate medicalbot
 ```
 
 
